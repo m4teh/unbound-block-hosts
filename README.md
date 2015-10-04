@@ -5,7 +5,7 @@ into Unbound local-data
 
 # SYNOPSIS
 
-    unbound-block-hosts [OPTIONS]
+    perl unbound-block-hosts [OPTIONS]
 
 # INTRODUCTION
 
